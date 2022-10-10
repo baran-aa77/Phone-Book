@@ -1,0 +1,20 @@
+
+    .Tablerow{
+        display: flex;
+        flex-direction: row;
+        /*width:100%;*/
+        border-bottom :1px solid rgb(180, 178, 178);
+        gap:40px;
+    }
+    
+    .delete-content{
+        display:flex;
+        flex-direction: row;
+        justify-content:space-around;
+        gap:30px;
+        .deletecontact{
+    padding:8px;
+    
+        }
+    }
+

@@ -1,0 +1,23 @@
+.showContact{
+   background-image: url('../../Images/purple.jpg');
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+.Back-Edit{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap:270px;
+    font-size:20px;
+}
+.edit-contact{
+    text-decoration: none;
+    color: black;
+    
+}
+.contact-information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

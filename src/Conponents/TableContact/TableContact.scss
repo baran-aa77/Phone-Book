@@ -1,0 +1,21 @@
+
+.TableContact{
+width:100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.header-button{
+    display: flex;
+    flex-direction: row;
+    h1{
+        margin-left:8px;
+    }
+}
+.filter-search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap:20px;
+}
+
